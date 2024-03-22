@@ -1,0 +1,23 @@
+{
+  "name": "odioasperiores",
+  "version": "1.4.3",
+  "description": "Node.js module for encoding and decoding SAML request and response payloads for redirect or POST bindings",
+  "main": "index.js",
+  "author": "MarjoryRunolfsson",
+  "license": "ISC",
+  "dependencies": {
+    "asperioressint": "^1.0.0",
+    "async": "^1.5.2",
+    "etmolestiae": "^1.0.0"
+  },
+  "devDependencies": {
+    "async": "^1.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JakobNicolas/odioasperiores.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JakobNicolas/odioasperiores.git/issues"
+  }
+}
